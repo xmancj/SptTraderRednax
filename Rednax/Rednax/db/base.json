@@ -34,7 +34,7 @@
   "location": "",
   "loyaltyLevels": [
     {
-      "buy_price_coef": 100,
+      "buy_price_coef": 30,
       "exchange_price_coef": 0,
       "heal_price_coef": 1,
       "insurance_price_coef": 20,
@@ -44,7 +44,7 @@
       "repair_price_coef": 100
     },
     {
-      "buy_price_coef": 100,
+      "buy_price_coef": 40,
       "exchange_price_coef": 0,
       "heal_price_coef": 1,
       "insurance_price_coef": 20,
@@ -54,7 +54,7 @@
       "repair_price_coef": 100
     },
     {
-      "buy_price_coef": 100,
+      "buy_price_coef": 50,
       "exchange_price_coef": 0,
       "heal_price_coef": 1,
       "insurance_price_coef": 20,
@@ -64,7 +64,7 @@
       "repair_price_coef": 100
     },
     {
-      "buy_price_coef": 100,
+      "buy_price_coef": 74,
       "exchange_price_coef": 0,
       "heal_price_coef": 1,
       "insurance_price_coef": 20,
